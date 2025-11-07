@@ -4,7 +4,7 @@ This project allows users to perform basic arithmetic operations such as additio
 
 ### Sample output
 
-Enter first number: 5
-Enter second number: 3
-Enter operator (+, -, *, /): +
-Result: 8
+- Enter first number: 5
+- Enter second number: 3
+- Enter operator (+, -, *, /): +
+- Result: 8
